@@ -7,8 +7,7 @@ const Gabriel = {
   tools: [React, Redux, Node, Sequelize, Postgres, Jest],
   passions: [Backend deveolpment,Frontend development]
 ```  
-- Sobre mi:
-...Soy autodidacta y muy curioso
+- Sobre mi: Soy autodidacta y muy curioso
 
 Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
