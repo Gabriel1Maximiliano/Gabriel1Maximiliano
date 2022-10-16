@@ -9,5 +9,6 @@ const Gabriel = {
   passions: [Backend deveolpment,Frontend development]
   
 ´´´
-Me podés contactar 
+Me podés contactar en 
+-[Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
 
