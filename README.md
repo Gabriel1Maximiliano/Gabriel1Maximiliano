@@ -8,7 +8,7 @@ const Gabriel = {
   passions: [Backend deveolpment,Frontend development]
 ```  
 - Sobre mi:
-Soy autodidacta y muy curioso
+...Soy autodidacta y muy curioso
 
 Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
