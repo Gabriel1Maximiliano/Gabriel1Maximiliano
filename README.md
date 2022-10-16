@@ -11,4 +11,4 @@ const Gabriel = {
 
 Me podés contactar en 
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
-- [email](gabrielhmloza@gmail.com)
+- email gabrielhmloza@gmail.com
