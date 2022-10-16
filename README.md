@@ -3,7 +3,6 @@
 
 ```js
 const Gabriel = {
-  pronouns: "he" | "him",
   code: [Javascript,  HTML, CSS ],
   tools: [React, Redux, Node, Sequelize, Postgres, Jest],
   passions: [Backend deveolpment,Frontend development]
