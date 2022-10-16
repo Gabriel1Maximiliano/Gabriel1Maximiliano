@@ -9,6 +9,6 @@ const Gabriel = {
   passions: [Backend deveolpment,Frontend development]
 ```  
 
-Me podés contactar en 
+Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
 - email gabrielhmloza@gmail.com
