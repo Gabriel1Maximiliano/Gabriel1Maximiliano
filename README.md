@@ -1,14 +1,13 @@
-- 👋 Hola, Soy Gabriel Loza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Soy Gabriel Loza :technologist:
+
 
 ```js
 const Gabriel = {
   pronouns: "he" | "him",
   code: [Javascript,  HTML, CSS ],
   tools: [React, Redux, Node, Sequelize, Postgres, Jest],
+  passions: [Backend deveolpment,Frontend development]
   
 ´´´
+Me podés contactar 
 
