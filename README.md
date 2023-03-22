@@ -23,4 +23,4 @@ Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
 - email gabrielhmloza@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1Maximiliano&hide_progress=true)](https://github.com/Gabriel1Maximiliano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1Maximiliano&hide_progress=false)](https://github.com/Gabriel1Maximiliano/github-readme-stats)
