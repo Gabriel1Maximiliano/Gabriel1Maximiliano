@@ -22,5 +22,5 @@ const Gabriel = {
 Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
 - email gabrielhmloza@gmail.com
--[Cv](https://drive.google.com/file/d/1B9CsuMKGbAl1Or_d60UdeRu5FugiN7pR/view)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1Maximiliano&hide_progress=false)](https://github.com/Gabriel1Maximiliano/github-readme-stats)
