@@ -7,7 +7,7 @@
 ```js
 const Gabriel = {
 
-  code    : [Javascript,  HTML, CSS ],
+  code    : [Javascript,  HTML, CSS],
   tools   : [React, Redux, Typescript, Node, Sequelize, Postgres, Jest],
   passions: [Backend deveolpment,Frontend development]
   
