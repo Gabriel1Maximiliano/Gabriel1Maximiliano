@@ -17,10 +17,7 @@ const Gabriel = {
 
 ✔️ Me encantan los desafios y la resolución de problemas. 
 ✔️ Nunca estoy en zona de confort. 
-✔️ Amo apender algo nuevo todos los días.
-✔️ Soy confiable y comprometido.
-✔️ Me gustan enfrentar desafíos en equipo
-✔️ Me apasiona la lectura
+
 
 Me podés contactar :world_map:
 - [Linkedin](https://www.linkedin.com/in/gabrielhmloza/)
